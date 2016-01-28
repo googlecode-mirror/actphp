@@ -1,0 +1,1 @@
+O ActPHP é um Framework para desenvolvimento de aplicações Web que utiliza a linguagem PHP. Desenhado o padrão MVC e inspirado em frameworks ágeis como Rails e Django, tem se mostrado uma alternativa competitiva dentro do gênero.
